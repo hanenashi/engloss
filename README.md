@@ -12,7 +12,7 @@ Prvni smer projektu je prakticka anglictina pro cestovani na kole: jidlo, ubytov
 
 ## Rychly start
 
-Otevri [index.html](index.html) v prohlizeci.
+Otevri (https://hanenashi.github.io/engloss/) v prohlizeci.
 
 Prvni verze je staticka stranka bez instalace, serveru a prihlasovani.
 
