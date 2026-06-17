@@ -109,7 +109,8 @@ main {
 
 .today-panel,
 .drill-box,
-.dialogue {
+.dialogue,
+.mistake-box {
   background: var(--panel);
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -228,6 +229,67 @@ input {
   grid-template-columns: minmax(220px, 0.65fr) minmax(280px, 1fr);
 }
 
+.mistake-layout {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: minmax(220px, 0.65fr) minmax(280px, 1fr);
+}
+
+.mistake-box {
+  display: grid;
+  gap: 14px;
+  padding: 20px;
+}
+
+.mistake-meta,
+.mistake-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.mistake-meta span {
+  background: #eef2ec;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--forest);
+  font-size: 13px;
+  font-weight: 800;
+  padding: 6px 9px;
+}
+
+.mistake-label {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.mistake-wrong,
+.mistake-correct {
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.mistake-wrong {
+  color: #9b3f2a;
+}
+
+.mistake-correct {
+  color: var(--forest);
+}
+
+.mistake-answer {
+  border-top: 1px solid var(--line);
+  display: grid;
+  gap: 8px;
+  padding-top: 14px;
+}
+
+.mistake-note {
+  color: var(--muted);
+}
+
 .dialogue {
   display: grid;
   gap: 10px;
@@ -238,6 +300,7 @@ input {
   .topbar,
   .dashboard,
   .drill-layout,
+  .mistake-layout,
   .roleplay {
     grid-template-columns: 1fr;
   }

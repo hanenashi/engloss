@@ -26,4 +26,4 @@ Procicit:
 
 ## Dalsi vyvojovy krok
 
-Zobrazit chyby z `data/mistakes.json` na hlavni strance jako cast `Mistake Review`.
+Rozsirit `Mistake Vault` o filtrovani podle kategorie a lekce.

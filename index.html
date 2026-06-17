@@ -15,6 +15,7 @@
       <nav aria-label="Main">
         <a href="#lesson">Lesson</a>
         <a href="#drill">Drill</a>
+        <a href="#mistakes">Mistakes</a>
         <a href="#roleplay">Roleplay</a>
       </nav>
     </header>
@@ -54,6 +55,33 @@
             <button id="checkButton" type="button">Check</button>
           </div>
           <p class="feedback" id="feedbackText" aria-live="polite"></p>
+        </div>
+      </section>
+
+      <section id="mistakes" class="section mistake-layout">
+        <div class="section-head">
+          <p class="eyebrow">Mistake Vault</p>
+          <h2>Review What Actually Happened</h2>
+        </div>
+        <div class="mistake-box">
+          <div class="mistake-meta">
+            <span id="mistakeLesson">Lesson</span>
+            <span id="mistakeCategory">Category</span>
+            <span id="mistakeStatus">New</span>
+          </div>
+          <p class="mistake-label">Wrong</p>
+          <p class="mistake-wrong" id="mistakeWrong"></p>
+          <div class="mistake-answer" id="mistakeAnswer" hidden>
+            <p class="mistake-label">Better</p>
+            <p class="mistake-correct" id="mistakeCorrect"></p>
+            <p class="mistake-note" id="mistakeNote"></p>
+          </div>
+          <div class="mistake-actions">
+            <button id="randomMistakeButton" type="button">Random mistake</button>
+            <button id="showMistakeButton" type="button">Show answer</button>
+            <button id="rememberedMistakeButton" type="button">Mark remembered</button>
+            <button id="difficultMistakeButton" type="button">Mark difficult</button>
+          </div>
         </div>
       </section>
 

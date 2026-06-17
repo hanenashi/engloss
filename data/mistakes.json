@@ -2,34 +2,73 @@
   {
     "id": "2026-06-18-charge-vs-change",
     "date": "2026-06-18",
-    "lesson": "lesson-001",
-    "type": "vocabulary-confusion",
-    "issue": "charge vs change",
-    "better": "Use charge for phone/battery. Use change for money or making something different.",
-    "example": "Can I charge my phone?",
-    "review": true,
-    "occurrences": 3
+    "lesson": "001",
+    "category": "vocabulary",
+    "wrong": "Can I change my phone?",
+    "correct": "Can I charge my phone?",
+    "note": "Use charge for phone or battery. Use change for money or making something different."
   },
   {
     "id": "2026-06-18-where-is",
     "date": "2026-06-18",
-    "lesson": "lesson-001",
-    "type": "sentence-pattern",
-    "issue": "where is",
-    "better": "Use Where is...? for asking about one place.",
-    "example": "Where is the supermarket?",
-    "review": true,
-    "occurrences": 2
+    "lesson": "001",
+    "category": "grammar",
+    "wrong": "Where are supermarket?",
+    "correct": "Where is the supermarket?",
+    "note": "Use is for one place. Supermarket also needs the article the."
   },
   {
     "id": "2026-06-18-articles",
     "date": "2026-06-18",
-    "lesson": "lesson-001",
-    "type": "grammar",
-    "issue": "articles",
-    "better": "Practice a, an, and the in simple travel sentences.",
-    "example": "Do you have a toilet? Where is the supermarket?",
-    "review": true,
-    "occurrences": 3
+    "lesson": "001",
+    "category": "grammar",
+    "wrong": "Do you have toilet?",
+    "correct": "Do you have a toilet?",
+    "note": "Use a for one general thing."
+  },
+  {
+    "id": "2026-06-18-article-supermarket",
+    "date": "2026-06-18",
+    "lesson": "001",
+    "category": "grammar",
+    "wrong": "Where is supermarket?",
+    "correct": "Where is the supermarket?",
+    "note": "Use the when asking about a known public place in this situation."
+  },
+  {
+    "id": "2026-06-18-need-water",
+    "date": "2026-06-18",
+    "lesson": "001",
+    "category": "sentence-pattern",
+    "wrong": "I need a water.",
+    "correct": "I need water.",
+    "note": "Water is uncountable here. Use water without a."
+  },
+  {
+    "id": "2026-06-18-can-i",
+    "date": "2026-06-18",
+    "lesson": "001",
+    "category": "sentence-pattern",
+    "wrong": "Can I to sit here?",
+    "correct": "Can I sit here?",
+    "note": "After can, use the base verb: sit, charge, pay."
+  },
+  {
+    "id": "2026-06-18-do-you-have",
+    "date": "2026-06-18",
+    "lesson": "001",
+    "category": "question",
+    "wrong": "You have water?",
+    "correct": "Do you have water?",
+    "note": "Use Do you have...? for simple availability questions."
+  },
+  {
+    "id": "2026-06-18-card-payment",
+    "date": "2026-06-18",
+    "lesson": "001",
+    "category": "phrase",
+    "wrong": "Can I pay with card?",
+    "correct": "Can I pay by card?",
+    "note": "The common phrase is pay by card."
   }
 ]

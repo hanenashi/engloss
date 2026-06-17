@@ -28,3 +28,9 @@ Nejvyznamnejsi oblasti:
 - articles
 
 Pripraven prechod na Lesson 002.
+
+### Mistake Vault
+
+- Pridana konkretni struktura chyb do `data/mistakes.json`.
+- Pridan prvni `Mistake Vault` do staticke aplikace.
+- Stav `Remembered` / `Difficult` se zatim uklada lokalne v prohlizeci.
