@@ -2,18 +2,28 @@
 
 ## Nejblizsi ukol
 
-Projit prvni lekci se studentem:
+Zacit Lesson 002:
 
-[lessons/bike-travel/lesson-001-greetings-and-requests.md](lessons/bike-travel/lesson-001-greetings-and-requests.md)
+[lessons/bike-travel/lesson-002-buying-food-and-drinks.md](lessons/bike-travel/lesson-002-buying-food-and-drinks.md)
 
-## Po lekci
+## Cil lekce
 
-Zapsat:
+Student se nauci koupit jidlo a piti behem cyklocesty.
 
-- 5 slov, ktera byla tezka
-- 3 vety, kde student chyboval
-- 1 realnou cestovatelskou situaci pro dalsi lekci
+Procicit:
+
+- asking for food and drinks
+- prices
+- card or cash
+- simple quantities
+- polite requests
+
+## Chyby k opakovani
+
+- `charge` vs `change`
+- `where is`
+- articles: `a`, `an`, `the`
 
 ## Dalsi vyvojovy krok
 
-Vytvorit jednoduche ukladani chyb do `data/mistakes.json` a zobrazit je na hlavni strance.
+Zobrazit chyby z `data/mistakes.json` na hlavni strance jako cast `Mistake Review`.

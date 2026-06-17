@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "id": "2026-06-18-charge-vs-change",
+    "date": "2026-06-18",
+    "lesson": "lesson-001",
+    "type": "vocabulary-confusion",
+    "issue": "charge vs change",
+    "better": "Use charge for phone/battery. Use change for money or making something different.",
+    "example": "Can I charge my phone?",
+    "review": true,
+    "occurrences": 3
+  },
+  {
+    "id": "2026-06-18-where-is",
+    "date": "2026-06-18",
+    "lesson": "lesson-001",
+    "type": "sentence-pattern",
+    "issue": "where is",
+    "better": "Use Where is...? for asking about one place.",
+    "example": "Where is the supermarket?",
+    "review": true,
+    "occurrences": 2
+  },
+  {
+    "id": "2026-06-18-articles",
+    "date": "2026-06-18",
+    "lesson": "lesson-001",
+    "type": "grammar",
+    "issue": "articles",
+    "better": "Practice a, an, and the in simple travel sentences.",
+    "example": "Do you have a toilet? Where is the supermarket?",
+    "review": true,
+    "occurrences": 3
+  }
+]

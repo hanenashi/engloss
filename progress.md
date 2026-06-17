@@ -7,3 +7,24 @@
 - Zvolen prvni smer: Bike Travel English.
 - Pripravena prvni lekce: greetings and simple requests.
 - Pripravena staticka startovni aplikace pro GitHub Pages.
+
+### Lesson 001 Dokoncena
+
+Procviceno:
+
+- greetings
+- requests
+- food and water
+- charging phone
+- supermarket directions
+- campsite basics
+
+Zachyceno 8 chyb.
+
+Nejvyznamnejsi oblasti:
+
+- `charge` vs `change`
+- `where is`
+- articles
+
+Pripraven prechod na Lesson 002.
