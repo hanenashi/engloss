@@ -1,0 +1,37 @@
+[
+  {
+    "id": "water",
+    "english": "water",
+    "czech": "voda",
+    "topic": "bike-travel",
+    "lesson": "lesson-001"
+  },
+  {
+    "id": "food",
+    "english": "food",
+    "czech": "jidlo",
+    "topic": "bike-travel",
+    "lesson": "lesson-001"
+  },
+  {
+    "id": "charger",
+    "english": "charger",
+    "czech": "nabijecka",
+    "topic": "bike-travel",
+    "lesson": "lesson-001"
+  },
+  {
+    "id": "toilet",
+    "english": "toilet",
+    "czech": "zachod",
+    "topic": "bike-travel",
+    "lesson": "lesson-001"
+  },
+  {
+    "id": "supermarket",
+    "english": "supermarket",
+    "czech": "supermarket",
+    "topic": "bike-travel",
+    "lesson": "lesson-001"
+  }
+]

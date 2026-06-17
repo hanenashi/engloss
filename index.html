@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Engloss</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Bike Travel English</p>
+        <h1>Engloss</h1>
+      </div>
+      <nav aria-label="Main">
+        <a href="#lesson">Lesson</a>
+        <a href="#drill">Drill</a>
+        <a href="#roleplay">Roleplay</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="dashboard" aria-label="Today">
+        <div class="photo-panel" aria-hidden="true"></div>
+        <div class="today-panel">
+          <p class="eyebrow">Lesson 001</p>
+          <h2>Greetings And Simple Requests</h2>
+          <p>You arrive in a small town on your bike. You need water, food, and a place to rest.</p>
+          <div class="status-row">
+            <span>Focus: survival phrases</span>
+            <span>Grammar: I need / Can I / Do you have</span>
+          </div>
+        </div>
+      </section>
+
+      <section id="lesson" class="section">
+        <div class="section-head">
+          <p class="eyebrow">Useful Phrases</p>
+          <h2>Say This First</h2>
+        </div>
+        <div class="phrase-grid" id="phraseGrid"></div>
+      </section>
+
+      <section id="drill" class="section drill-layout">
+        <div class="section-head">
+          <p class="eyebrow">Quick Drill</p>
+          <h2>Translate Czech To English</h2>
+        </div>
+        <div class="drill-box">
+          <p id="promptText"></p>
+          <label for="answerInput">Your answer</label>
+          <div class="answer-row">
+            <input id="answerInput" type="text" autocomplete="off">
+            <button id="checkButton" type="button">Check</button>
+          </div>
+          <p class="feedback" id="feedbackText" aria-live="polite"></p>
+        </div>
+      </section>
+
+      <section id="roleplay" class="section roleplay">
+        <div class="section-head">
+          <p class="eyebrow">Roleplay</p>
+          <h2>Small Shop Stop</h2>
+        </div>
+        <div class="dialogue">
+          <p><strong>Mentor:</strong> Hello. Can I help you?</p>
+          <p><strong>Student:</strong> Hello. Excuse me...</p>
+        </div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

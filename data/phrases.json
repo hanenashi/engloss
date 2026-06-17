@@ -1,0 +1,30 @@
+[
+  {
+    "id": "i-need-water",
+    "english": "I need water.",
+    "czech": "Potrebuju vodu.",
+    "pattern": "I need...",
+    "lesson": "lesson-001"
+  },
+  {
+    "id": "can-i-sit-here",
+    "english": "Can I sit here?",
+    "czech": "Muzu si tady sednout?",
+    "pattern": "Can I...?",
+    "lesson": "lesson-001"
+  },
+  {
+    "id": "do-you-have-water",
+    "english": "Do you have water?",
+    "czech": "Mate vodu?",
+    "pattern": "Do you have...?",
+    "lesson": "lesson-001"
+  },
+  {
+    "id": "where-is-supermarket",
+    "english": "Where is the supermarket?",
+    "czech": "Kde je supermarket?",
+    "pattern": "Where is...?",
+    "lesson": "lesson-001"
+  }
+]
